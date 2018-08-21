@@ -18,7 +18,7 @@ TUGAS 8
 TUGAS 9
 ![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/Beasiswa.PNG)
 TUGAS 10
-![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/PerulanganFor.PNG)
+![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/perulanganFor.PNG)
 TUGAS 11
 ![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/Counter.PNG)
 TUGAS 12
