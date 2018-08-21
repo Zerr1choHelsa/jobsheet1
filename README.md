@@ -16,9 +16,9 @@ TUGAS 7
 TUGAS 8
 ![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/PilihanKondisi.PNG)
 TUGAS 9
-![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/Beasiswa.PNG)
+![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/BeaSiswa.PNG)
 TUGAS 10
-![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/perulanganFor.PNG)
+![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/perulanganfor.PNG)
 TUGAS 11
 ![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/Counter.PNG)
 TUGAS 12
