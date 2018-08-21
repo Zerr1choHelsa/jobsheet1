@@ -23,3 +23,11 @@ TUGAS 11
 ![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/Counter.PNG)
 TUGAS 12
 ![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/PernyataanWhile.PNG)
+Lanjutan1
+![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/lanjutan1.PNG)
+Lanjutan2
+![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/lanjutan2.PNG)
+Lanjutan3
+![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/lanjutan3.PNG)
+Lanjutan4
+![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/lanjutan4.PNG)
