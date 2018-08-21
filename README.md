@@ -1,5 +1,5 @@
 # jobsheet1
-<h3> Tugas 1</>
+Tugas 1
 ![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/HalloTelkom.PNG)
 TUGAS 2
 ![alt text](https://github.com/Zerr1choHelsa/jobsheet1/blob/master/Variabel.PNG)
